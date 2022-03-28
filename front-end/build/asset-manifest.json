@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.963f6418.css",
+    "main.js": "/static/js/main.bcada4b7.js",
+    "static/media/boxers.jpg": "/static/media/boxers.95dbaa1bb147f4ec0d43.jpg",
+    "static/media/t-shirt.jpg": "/static/media/t-shirt.ea59bb997b574c694494.jpg",
+    "static/media/jeans.jpg": "/static/media/jeans.81eaeeb147eeab1958f0.jpg",
+    "static/media/trousers.jpg": "/static/media/trousers.6c2846ba15d675be54d2.jpg",
+    "static/media/joggers.jpg": "/static/media/joggers.049ad3055b7d36d6e60b.jpg",
+    "static/media/Footer.png": "/static/media/Footer.3f840ef764f58b399974.png",
+    "static/media/others.jpg": "/static/media/others.743082e16c7141d1e156.jpg",
+    "static/media/shirts.jpg": "/static/media/shirts.9ccbaf8d8d53109f21f2.jpg",
+    "index.html": "/index.html",
+    "main.963f6418.css.map": "/static/css/main.963f6418.css.map",
+    "main.bcada4b7.js.map": "/static/js/main.bcada4b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963f6418.css",
+    "static/js/main.bcada4b7.js"
+  ]
+}
